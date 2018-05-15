@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.05"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.1"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.15"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.2"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.25"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.3"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.35"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.4"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.45"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.5"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.55"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.6"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.65"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.7"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.75"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.8"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.85"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.9"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.95"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="1"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.95"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.9"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.85"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.8"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.75"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.7"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.65"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.6"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.55"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.5"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.45"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.4"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.35"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.3"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.25"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.2"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.15"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item android:duration="140">
+        <shape>
+            <gradient
+                android:centerX="0.1"
+                android:endColor="#59ba48"
+                android:gradientRadius="500"
+                android:startColor="#fdd420"
+                android:type="radial" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+</animation-list>

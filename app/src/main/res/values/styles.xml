@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="MySwitch" parent="@style/Widget.AppCompat.CompoundButton.Switch">
+        <item name="android:textColorPrimaryDisableOnly">#ffffff</item>
+
+        <item name="android:colorForeground">#b7b7b8</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+    </style>
+
+    <style name="Items" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/ItemsColor</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/custom_primary_text_default_material_light</item>
+        <item name="android:colorForeground">@android:color/secondary_text_light</item>
+        <item name="android:colorBackground">@color/ItemsBgColor</item>
+    </style>
+
+</resources>

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TRAILER LIGHT DIAGNOSTICS</string>
+    <string name="mac_address">MAC: %s</string>
+    <string name="OnTheShore">On the Shore</string>
+    <string name="TakeOff">Take off</string>
+    <string name="Settings">Settings</string>
+    <string name="OnTheRoad">On the Road</string>
+    <string name="Devices">Multiply Device has found:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repeat">Repeat</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="title_activity_shore_test">ShoreTest</string>
+    <string name="right_turn_light">Right Turn Light</string>
+    <string name="tail_lights">Tail Lights</string>
+    <string name="left_turn_light">Left Turn Light</string>
+    <string name="monitorInfo">On the Road Monitor measures the current when vehicle signals are on and compares with reference values.
+        "\n"      "\n"
+        It will notify you if something is not wright with lights. It will also maintain BT connection.</string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+    <string name="users_profile">User’s Profile</string>
+    <string name="status">Status</string>
+    <string name="help">Help</string>
+    <string name="default_profile">Default Profile</string>
+    <string name="edit">Edit</string>
+    <string name="voltage_range">Voltage Range</string>
+    <string name="_10v"> 10V
+    "\n"
+   min </string>
+    <string name="left_turn_lights">Left Turn Lights</string>
+    <string name="right_turn_lights">Right Turn Lights</string>
+    <string name="battery_voltage">Battery Voltage</string>
+    <string name="_15v">15V
+    "\n"
+    max</string>
+    <string name="yes">Yes</string>
+    <string name="save_changes">Save changes to User’s profile before closing?</string>
+    <string name="warning">WARNING!</string>
+    <string name="no">NO</string>
+    <string name="stored_treshold">Stored, treshold</string>
+    <string name="save">Save</string>
+    <string name="default_values">Default values</string>
+    <string name="start">Start</string>
+    <string name="please_turn_on_tail_lights">Please Turn on Tail Lights</string>
+    <string name="brakes">Brakes</string>
+    <string name="any_error_reports_here">Any error reports here</string>
+    <string name="battery">Battery OK</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="scan_manually">Scan manually</string>
+    <string name="battery_critical">Battery critical</string>
+    <string name="battery_low">Battery low</string>
+    <string name="TAKE_OFF_TEST">TAKE OFF TEST</string>
+    <string name="SHORE_TEST">SHORE TEST</string>
+    <string name="SETTINGS">SETTINGS</string>
+    <string name="PROFILE">PROFILE</string>
+    <string name="USERS_PROFILE">USER’S PROFILE</string>
+    <string name="ON_THE_ROAD_MONITOR">On the road monitor</string>
+    <string name="ok">OK</string>
+    <string name="on_Left_Turn_Lights">Please Turn on Left Turn Lights</string>
+    <string name="on_Right_Turn_Lights">Please Turn on Right Turn Lights</string>
+    <string name="on_brakes_lights">Please Turn on Brakes Lights</string>
+    <string name="low_Voltage">Low Voltage</string>
+    <string name="high_Voltage">High Voltage</string>
+    <string name="low_Current">Low Current</string>
+    <string name="high_Current">High Current</string>
+    <string name="falling_edge_missing">Falling edge missing</string>
+    <string name="rising_edge_missing">Rising edge missing</string>
+    <string name="shortcut">Shortcut</string>
+    <string name="fuse">Fuse</string>
+    <string name="ABOUT">ABOUT</string>
+    <string name="STATUS">STATUS</string>
+    <string name="HELP">HELP</string>
+    <string name="version">version 1.0</string>
+    <string name="info">On the Shore"\n"Take off"\n"On the Road</string>
+    <string name="available_modes">Available modes:</string>
+    <string name="enable_monitor">Enable Monitor</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="enabled">is enabled</string>
+
+</resources>
